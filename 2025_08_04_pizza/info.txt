@@ -1,0 +1,15 @@
+Pizza type: Pepperoni
+Pizza size: 23 inches
+Membercard: false
+Cost: 11.9 euros
+------------------------
+Pizza type: Pepperoni
+Pizza size: 23 inches
+Membercard: true
+Cost: 10.71 euros
+------------------------
+Pizza type: Pepperoni
+Pizza size: 22 inches
+Membercard: true
+Cost: 10.44 euros
+------------------------
